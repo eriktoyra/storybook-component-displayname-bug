@@ -44,4 +44,4 @@ export const EmpireAlert: React.FC<EmpireAlertProps> = ({
  * Fails:
  *  - Using a displayName that _does not match_ the component name exactly.
  */
-//EmpireAlert.displayName = "RebelAlliance.EmpireAlert";
+EmpireAlert.displayName = "RebelAlliance.EmpireAlert";
